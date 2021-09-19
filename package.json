@@ -1,0 +1,15 @@
+{
+  "name": "simple-genius-lyrics-scraper",
+  "version": "1.0.1",
+  "description": "Get genius.com lyrics without an api key!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "philipredstone (https://philip.red)",
+  "license": "ISC",
+  "dependencies": {
+    "html-entities": "^2.3.2",
+    "node-fetch": "^3.0.0"
+  }
+}
