@@ -16,8 +16,8 @@ Usage
 
 ### getLyrics(songtitle)
 
-Returns Promise.
-When resolved, a JSON Object is returned with: **artist**,**title**,**cover (image)**,**url**,**lyrics**
+Returns Promise.  
+When resolved, a JSON Object is returned with:  **artist**,**title**,**cover (image)**,**url**,**lyrics**
 
 ```js
 const getLyrics = require("simple-genius-lyrics-scraper").getLyrics;

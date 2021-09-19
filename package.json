@@ -1,6 +1,6 @@
 {
   "name": "simple-genius-lyrics-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get genius.com lyrics without an api key!",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,18 @@
   },
   "author": "philipredstone (https://philip.red)",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipredstone/simple-genius-lyrics-scraper.git"
+  },
+  "homepage": "https://github.com/philipredstone/simple-genius-lyrics-scraper#readme",
+  "keywords": [
+    "genius",
+    "lyrics",
+    "song",
+    "api",
+    "coverart"
+  ],
   "dependencies": {
     "html-entities": "^2.3.2",
     "node-fetch": "^3.0.0"
